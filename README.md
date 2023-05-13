@@ -53,8 +53,7 @@ Parameters:
 
 Returns:
 - (string): The minified CSS content.
-```
-```
+
 
 Please make sure to adjust the code and descriptions as needed for your specific use case. Let me know if you need any further assistance!
 "# minifyer" 
