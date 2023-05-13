@@ -39,9 +39,9 @@ class Minify
      */
     public static function json(string $content): string
     {
-        $json = Json::decode($content);
+        $json = json_decode($content);
 
-        return Json::encode($json);
+        return json_encode($json);
     }
     /**
      * Minify CSS content by removing unnecessary whitespace and line breaks.
