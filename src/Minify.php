@@ -4,8 +4,6 @@ declare(strict_types=1);
 
 namespace Effectra\Minifyer;
 
-use Effectra\Fs\Type\Json;
-
 /**
  * Class Minify
  *
